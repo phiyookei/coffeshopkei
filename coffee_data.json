@@ -1,72 +1,72 @@
 [
-    {
-        "coffee_id": 1,
-        "coffee_title": "Caffè Latte",
-        "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-        "coffee_thumbnails": "caffe_latte_thumbnail.png",
-        "coffee_poster": "caffe_latte_poster.jpg"
-    },
-    {
-        "coffee_id": 2,
-        "coffee_title": "Cappuccino",
-        "coffee_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
-        "coffee_thumbnails": "cappuccino_thumbnail.png",
-        "coffee_poster": "cappuccino_poster.jpg"
-    },
-    {
-        "coffee_id": 3,
-        "coffee_title": "Caffè Mocha",
-        "coffee_detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
-        "coffee_thumbnails": "caffe_mocha_thumbnail.png",
-        "coffee_poster": "caffe_mocha_poster.jpg"
-    },
-    {
-        "coffee_id": 4,
-        "coffee_title": "Caramel Macchiato",
-        "coffee_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
-        "coffee_thumbnails": "caramel_macchiato_thumbnail.png",
-        "coffee_poster": "caramel_macchiato_poster.jpg"
-    },
-    {
-        "coffee_id": 5,
-        "coffee_title": "Vanilla Sweet Cream Cold Brew",
-        "coffee_detail": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
-        "coffee_thumbnails": "vanilla_sweet_cream_cold_brew_thumbnail.png",
-        "coffee_poster": "vanilla_sweet_cream_cold_brew_poster.jpg"
-    },
-    {
-        "coffee_id": 6,
-        "coffee_title": "Cold Brew",
-        "coffee_detail": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
-        "coffee_thumbnails": "cold_brew_thumbnail.png",
-        "coffee_poster": "cold_brew_poster.jpg"
-    },
-    {
-        "coffee_id": 7,
-        "coffee_title": "Mango Passion Frappuccino",
-        "coffee_detail": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
-        "coffee_thumbnails": "mango_passion_frappuccino_thumbnail.png",
-        "coffee_poster": "mango_passion_frappuccino_poster.jpg"
-    },
-    {
-        "coffee_id": 8,
-        "coffee_title": "Raspberry Currant Frappuccino",
-        "coffee_detail": "Made with freshly brewed Teavana® tea, blended juice and ice.",
-        "coffee_thumbnails": "raspberry_currant_frappuccino_thumbnail.png",
-        "coffee_poster": "raspberry_currant_frappuccino_poster.jpg"
-    },
-    {
-        "coffee_id": 9,
-        "coffee_title": "Coffee Frappuccino",
-        "coffee_detail": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
-        "coffee_thumbnails": "coffee_frappuccino_thumbnail.png",
-        "coffee_poster": "coffee_frappuccino_poster.jpg"
-    },
-    {
-        "coffee_id": 10,
-        "coffee_title": "Mocha Frappuccino",
-        "coffee_detail": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
-        "coffee_thumbnails": "mocha_frappuccino_thumbnail.png",
-        "coffee_poster": "mocha_frappuccino_poster.jpg"
-    }
+  {
+    "coffee_id": 1,
+    "coffee_title": "Caffè Latte",
+    "coffee_detail": "Espresso kental dan penuh cita rasa, berpadu dengan kelembutan susu dan sentuhan busa halus.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/caffe_latte_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/caffe_latte_poster.jpg"
+  },
+  {
+    "coffee_id": 2,
+    "coffee_title": "Cappuccino",
+    "coffee_detail": "'Espresso pekat berpadu dengan kelembutan susu, ditutup dengan lapisan busa tebal yang menggoda.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/cappuccino_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/cappuccino_poster.jpg"
+  },
+  {
+    "coffee_id": 3,
+    "coffee_title": "Caffè Mocha",
+    "coffee_detail": "Espresso pekat dengan sentuhan saus moka pahit-manis, dipadu susu kukus lembut, dan disempurnakan dengan krim kocok manis di atasnya.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/caffe_mocha_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/caffe_mocha_poster.jpg"
+  },
+  {
+    "coffee_id": 4,
+    "coffee_title": "Caramel Macchiato",
+    "coffee_detail": "Espresso khas dengan sirup vanila, susu dingin, dan saus karamel, disajikan di atas es.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/caramel_macchiato_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/caramel_macchiato_poster.jpg"
+  },
+  {
+    "coffee_id": 5,
+    "coffee_title": "Vanilla Sweet Cream Cold Brew",
+    "coffee_detail": "Cold Brew yang diseduh perlahan ini diberi sentuhan krim vanila manis buatan sendiri yang lembut, perlahan mengalir ke seluruh cangkir. Kesegaran yang memikat dalam setiap tegukan!.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/vanilla_sweet_cream_cold_brew_poster.jpg"
+  },
+  {
+    "coffee_id": 6,
+    "coffee_title": "Cold Brew",
+    "coffee_detail": "Diseduh perlahan dalam jumlah kecil untuk menciptakan kelembutan sempurna. Rasakan manis alami dan kekayaan rasa yang hanya tercipta dari proses seduh dingin.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/cold_brew_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/cold_brew_poster.jpg"
+  },
+  {
+    "coffee_id": 7,
+    "coffee_title": "Mango Passion Frappuccino",
+    "coffee_detail": "Perpaduan segar mangga tropis dan markisa yang eksotis, disempurnakan dengan teh kembang sepatu dan es buah. Segarnya tropis dalam setiap tegukan.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/mango_passion_frappuccino_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/mango_passion_frappuccino_poster.jpg"
+  },
+  {
+    "coffee_id": 8,
+    "coffee_title": "Raspberry Currant Frappuccino",
+    "coffee_detail": "Dibuat dari teh Teavana yang baru diseduh, dicampur dengan jus buah segar dan es. Kesegaran alami dalam setiap tegukan.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/raspberry_currant_frappuccino_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/raspberry_currant_frappuccino_poster.jpg"
+  },
+  {
+    "coffee_id": 9,
+    "coffee_title": "Coffee Frappuccino",
+    "coffee_detail": "Dipadukan dengan susu rendah lemak dan es, sempurna untuk dinikmati dengan santai. Kesegaran klasik dalam setiap tegukan.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/coffee_frappuccino_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/coffee_frappuccino_poster.jpg"
+  },
+  {
+    "coffee_id": 10,
+    "coffee_title": "Mocha Frappuccino",
+    "coffee_detail": "Saus moka kaya, kopi panggang Frappuccino yang menggoda, susu creamy, dan es, semuanya berpadu dalam kesempurnaan.",
+    "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/mocha_frappuccino_thumbnail.png",
+    "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/mocha_frappuccino_poster.jpg"
+  }
 ]
