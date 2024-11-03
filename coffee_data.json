@@ -9,7 +9,7 @@
   {
     "coffee_id": 2,
     "coffee_title": "Cappuccino",
-    "coffee_detail": "Espresso pekat berpadu dengan kelembutan susu, ditutup dengan lapisan busa tebal yang menggoda.",
+    "coffee_detail": "'Espresso pekat berpadu dengan kelembutan susu, ditutup dengan lapisan busa tebal yang menggoda.",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/cappuccino_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/cappuccino_poster.jpg"
   },
@@ -23,28 +23,28 @@
   {
     "coffee_id": 4,
     "coffee_title": "Caramel Macchiato",
-    "coffee_detail": "Espresso khas dengan sirup vanila, susu dingin, dan saus karamel, disajikan di atas es.",
+    "coffee_detail": "Espresso khas dengan sirup vanila, susu dingin, dan saus karamel , disajikan di atas es. !",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/caramel_macchiato_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/caramel_macchiato_poster.jpg"
   },
   {
     "coffee_id": 5,
     "coffee_title": "Vanilla Sweet Cream Cold Brew",
-    "coffee_detail": "Cold Brew yang diseduh perlahan ini diberi sentuhan krim vanila manis buatan sendiri yang lembut, perlahan mengalir ke seluruh cangkir. Kesegaran yang memikat dalam setiap tegukan!",
+    "coffee_detail": "Cold Brew yang diseduh perlahan ini diberi sentuhan krim vanila manis buatan sendiri yang lembut, perlahan mengalir ke seluruh cangkir. Kesegaran yang memikat dalam setiap tegukan!.",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/vanilla_sweet_cream_cold_brew_poster.jpg"
   },
   {
     "coffee_id": 6,
     "coffee_title": "Cold Brew",
-    "coffee_detail": "Diseduh perlahan dalam jumlah kecil untuk menciptakan kelembutan sempurna. Rasakan manis alami dan kekayaan rasa yang hanya tercipta dari proses seduh dingin.",
+    "coffee_detail": "Diseduh perlahan dalam jumlah kecil untuk menciptakan kelembutan sempurna.Rasakan manis alami dan kekayaan rasa yang hanya tercipta dari proses seduh dingin.",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/cold_brew_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/cold_brew_poster.jpg"
   },
   {
     "coffee_id": 7,
     "coffee_title": "Mango Passion Frappuccino",
-    "coffee_detail": "Perpaduan segar mangga tropis dan markisa yang eksotis, disempurnakan dengan teh kembang sepatu dan es buah. Segarnya tropis dalam setiap tegukan.",
+    "coffee_detail": "Perpaduan segar mangga tropis dan markisa yang eksotis, disempurnakan dengan teh kembang sepatu dan es buah. Segarnya tropis dalam setiap tegukan..",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/mango_passion_frappuccino_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/mango_passion_frappuccino_poster.jpg"
   },
@@ -68,5 +68,5 @@
     "coffee_detail": "Saus moka kaya, kopi panggang Frappuccino yang menggoda, susu creamy, dan es, semuanya berpadu dalam kesempurnaan.",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/mocha_frappuccino_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/mocha_frappuccino_poster.jpg"
-  }
+  }
 ]
