@@ -9,7 +9,7 @@
   {
     "coffee_id": 2,
     "coffee_title": "Cappuccino",
-    "coffee_detail": "'Espresso pekat berpadu dengan kelembutan susu, ditutup dengan lapisan busa tebal yang menggoda.",
+    "coffee_detail": "Espresso pekat berpadu dengan kelembutan susu, ditutup dengan lapisan busa tebal yang menggoda.",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/cappuccino_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/cappuccino_poster.jpg"
   },
@@ -30,7 +30,7 @@
   {
     "coffee_id": 5,
     "coffee_title": "Vanilla Sweet Cream Cold Brew",
-    "coffee_detail": "Cold Brew yang diseduh perlahan ini diberi sentuhan krim vanila manis buatan sendiri yang lembut, perlahan mengalir ke seluruh cangkir. Kesegaran yang memikat dalam setiap tegukan!.",
+    "coffee_detail": "Cold Brew yang diseduh perlahan ini diberi sentuhan krim vanila manis buatan sendiri yang lembut, perlahan mengalir ke seluruh cangkir. Kesegaran yang memikat dalam setiap tegukan!",
     "coffee_thumbnails": "https://phiyookei.github.io/coffeshopkei/assets/vanilla_sweet_cream_cold_brew_thumbnail.png",
     "coffee_poster": "https://phiyookei.github.io/coffeshopkei/assets/vanilla_sweet_cream_cold_brew_poster.jpg"
   },
